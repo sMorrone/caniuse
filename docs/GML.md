@@ -300,4 +300,4 @@ Tests if the 'xlink:href' links can be resolved either in the case they are exte
 
 ***Test expected outcome:***
 
-codelists definitions are opened in the browser, referenced object description/ spatial object is returned
+links to resources are resolved for <ad:specification> and <ad:method> (external resources) as well as for the <ad:component> internal references to features in the same GML file.
